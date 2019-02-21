@@ -12,7 +12,7 @@ ASP.net Core 2.2+WebAPI+Dapper+MySql+vue.js(MVVM)+Element ui+identityServer4
 ```
 ["value1","value2"]
 ```
-创建DAL层并安装MySQL和Dapper
+增加DAL层并安装MySQL和Dapper
 ---------------------------
 * 启动程序：VS2017，打开CRM解决方案
 * 鼠标右击：解决方案资源管理器->解决方案"CRM"
