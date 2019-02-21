@@ -2,7 +2,8 @@
 ASP.net Core 2.2+WebAPI+Dapper+MySql+vue.js(MVVM)+Element ui+identityServer4
 ============================================================================
 用VS2017创建ASP.net Core2.2+WebAPI项目
-* 安装[VisualStudioS2017](https://visualstudio.microsoft.com/zh-hans/downloads/)
+-------------------------------------
+* 安装[VisualStudioS2017 社区版](https://visualstudio.microsoft.com/zh-hans/downloads/)
 * 安装[.NET Core 2.2](https://dotnet.microsoft.com/download)
 * 启动VS2017，选择文件-新建-项目
 * 选择：Web->ASP.NET Core Web 应用程序
@@ -11,3 +12,6 @@ ASP.net Core 2.2+WebAPI+Dapper+MySql+vue.js(MVVM)+Element ui+identityServer4
 ```
 ["value1","value2"]
 ```
+安装MySQL和Dapper
+-----------------
+* 安装[MySQL Community Server](https://dev.mysql.com/downloads/)
