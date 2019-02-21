@@ -7,3 +7,7 @@ ASP.net Core 2.2+WebAPI+Dapper+MySql+vue.js(MVVM)+Element ui+identityServer4
 * 启动VS2017，选择文件-新建-项目
 * 选择：Web->ASP.NET Core Web 应用程序
 * 选择：.NET Core->ASP.NET Core 2.2->API
+此时程序已经可以运行，将在浏览器上显示
+```
+["value1","value2"]
+```
